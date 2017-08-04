@@ -1,4 +1,4 @@
-class WelcomeController < ApplicationController
+class HomeController < ApplicationController
   
   def contact_us
   end

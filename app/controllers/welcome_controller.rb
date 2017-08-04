@@ -1,10 +1,8 @@
 class WelcomeController < ApplicationController
-  
-  def contact_us
+  def index
   end
 
-
-  def index
+  def contact_us
   end
 end
 

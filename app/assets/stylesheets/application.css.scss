@@ -1,11 +1,12 @@
-@import "bootstrap";
-@import "bootstrap-theme";
-@import "color9";
-@import "custom";
-@import "font-awesome";
-@import "ie";
-@import "line-icons"
-@import "style";
+ *= require bootstrap
+ *= require bootstrap-theme
+ *= require style
+ *= require custom
+ *= require color9
+ *= require font-awesome
+ *= require line-icons
+ *= require animations
+ *= require_self
 
 
 
